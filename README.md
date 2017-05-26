@@ -1,5 +1,4 @@
-# MVC-Pada-Java
-
+# Aplikasi Toko Sederhana
 #### Halaman Login Saat pertama kali aplikasi dibuka
 
 [![login name.png](https://s15.postimg.org/nzp1sjr0r/login_name.png)](https://postimg.org/image/w573qpf9j/)
